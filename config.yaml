@@ -18,7 +18,7 @@ params:
       - label: Bacana
         url: /style-guide
         style: link
-      - label: Contact Us
+      - label: Fale Conosco
         url: /contact
         style: primary
   footer:
