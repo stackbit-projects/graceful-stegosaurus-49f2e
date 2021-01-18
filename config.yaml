@@ -12,7 +12,7 @@ params:
       - label: Blog
         url: /blog
         style: link
-      - label: About
+      - label: Sobre
         url: /about
         style: link
       - label: Bacana
