@@ -6,7 +6,7 @@ params:
     title: Trevor Phillipis Enterprises
     has_nav: true
     nav_links:
-      - label: Features
+      - label: ''
         url: /features
         style: link
       - label: Blog
